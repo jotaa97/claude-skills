@@ -17,7 +17,7 @@ revisas y envías. Pensado para comerciales **sin conocimientos técnicos**: sin
 ### Instalar
 
 ```bash
-npx skills add <TU-USUARIO>/claude-skills@buscar-clientes
+npx skills add jotaa97/claude-skills@buscar-clientes
 ```
 
 O manualmente: copia la carpeta `buscar-clientes/` a `~/.claude/skills/` (Claude Code), o súbela en
