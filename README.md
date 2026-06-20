@@ -6,6 +6,10 @@ Skills para Claude, listas para usar. Cada una viene en **dos formas**:
 
 Sin código y sin APIs. Solo necesitas tu Claude con la **búsqueda web activada**.
 
+> 🟢 **¿No sabes de informática?** Abre **[GUIA-usar-skill-en-claude.pdf](GUIA-usar-skill-en-claude.pdf)**:
+> te explica en 2 minutos cómo abrir Claude y usar la herramienta (la forma más fácil es copiar y
+> pegar el `PROMPT.md`, sin instalar nada).
+
 ---
 
 ## 🧲 buscar-clientes — `buscar-clientes/`
