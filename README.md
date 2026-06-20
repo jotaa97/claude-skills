@@ -27,6 +27,32 @@ por diapositiva, sin relleno, y sin inventarse datos.
 - **Instalar como skill:** `npx skills add jotaa97/claude-skills@crear-presentaciones`
 - **O copiar el prompt:** abre `crear-presentaciones/PROMPT.md` y pégalo en Claude.
 
+## ✍️ crear-post-linkedin — `crear-post-linkedin/`
+
+Escribe **posts de LinkedIn de alto alcance** usando la fórmula **A + B + C** (gancho + valor +
+detonador), **sin engagement-bait**. Elige el tipo (autoridad, tutorial, caso real, building in
+public, newsjacking, comercial), aporta valor real y atrae clientes. Nunca inventa cifras.
+
+- **Instalar como skill:** `npx skills add jotaa97/claude-skills@crear-post-linkedin`
+- **O copiar el prompt:** abre `crear-post-linkedin/PROMPT.md` y pégalo en Claude.
+
+## 🧭 optimizar-perfil-linkedin — `optimizar-perfil-linkedin/`
+
+Convierte tu perfil en una **página de ventas**: headline, «Acerca de» (estructura PAS), Destacado,
+banner y comentario de bienvenida, con un **método con nombre propio**. El contenido atrae, el perfil
+convierte.
+
+- **Instalar como skill:** `npx skills add jotaa97/claude-skills@optimizar-perfil-linkedin`
+- **O copiar el prompt:** abre `optimizar-perfil-linkedin/PROMPT.md` y pégalo en Claude.
+
+## 📰 newsjacking-ia — `newsjacking-ia/`
+
+Convierte una **novedad real de IA** en un post aplicado a pymes para ganar alcance por actualidad,
+sin sensacionalismo. Traduce el titular a «qué significa para tu negocio» y «qué montaría yo con esto».
+
+- **Instalar como skill:** `npx skills add jotaa97/claude-skills@newsjacking-ia`
+- **O copiar el prompt:** abre `newsjacking-ia/PROMPT.md` y pégalo en Claude.
+
 ---
 
 ## Instalar (resumen)
@@ -34,6 +60,9 @@ por diapositiva, sin relleno, y sin inventarse datos.
 ```bash
 npx skills add jotaa97/claude-skills@buscar-clientes
 npx skills add jotaa97/claude-skills@crear-presentaciones
+npx skills add jotaa97/claude-skills@crear-post-linkedin
+npx skills add jotaa97/claude-skills@optimizar-perfil-linkedin
+npx skills add jotaa97/claude-skills@newsjacking-ia
 ```
 
 O manualmente: copia la carpeta de la skill a `~/.claude/skills/` (Claude Code) o súbela en
