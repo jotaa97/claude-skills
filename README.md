@@ -53,6 +53,15 @@ sin sensacionalismo. Traduce el titular a «qué significa para tu negocio» y �
 - **Instalar como skill:** `npx skills add jotaa97/claude-skills@newsjacking-ia`
 - **O copiar el prompt:** abre `newsjacking-ia/PROMPT.md` y pégalo en Claude.
 
+## 🎠 crear-carrusel-linkedin — `crear-carrusel-linkedin/`
+
+Crea un **carrusel PDF** para LinkedIn (el formato de mayor alcance, ≈6x el texto solo) slide a
+slide: portada-gancho, una idea por slide, resumen y CTA **sin engagement-bait**, más el post que lo
+acompaña. Formato 1080×1350 (4:5).
+
+- **Instalar como skill:** `npx skills add jotaa97/claude-skills@crear-carrusel-linkedin`
+- **O copiar el prompt:** abre `crear-carrusel-linkedin/PROMPT.md` y pégalo en Claude.
+
 ---
 
 ## Instalar (resumen)
@@ -63,6 +72,7 @@ npx skills add jotaa97/claude-skills@crear-presentaciones
 npx skills add jotaa97/claude-skills@crear-post-linkedin
 npx skills add jotaa97/claude-skills@optimizar-perfil-linkedin
 npx skills add jotaa97/claude-skills@newsjacking-ia
+npx skills add jotaa97/claude-skills@crear-carrusel-linkedin
 ```
 
 O manualmente: copia la carpeta de la skill a `~/.claude/skills/` (Claude Code) o súbela en
