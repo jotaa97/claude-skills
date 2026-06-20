@@ -9,6 +9,10 @@ Sin código y sin APIs. Solo necesitas tu Claude con la **búsqueda web activada
 > 🟢 **¿No sabes de informática?** Abre **[GUIA-usar-skill-en-claude.pdf](GUIA-usar-skill-en-claude.pdf)**:
 > te explica en 2 minutos cómo abrir Claude y usar la herramienta (la forma más fácil es copiar y
 > pegar el `PROMPT.md`, sin instalar nada).
+>
+> 📄 **Aún más fácil (para enviar a alguien):** en **[`pdf-para-clientes/`](pdf-para-clientes)** tienes
+> un PDF «todo en uno» por herramienta — ya incluye los 3 pasos **y el texto listo para copiar**.
+> Le envías ese único archivo y no tiene que tocar nada más.
 
 ---
 
