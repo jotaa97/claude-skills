@@ -26,12 +26,33 @@ creadores de IA (ES y US). Español de España, tono cercano y con autoridad. El
 4. **Empieza por la audiencia, no por ti.** Valor primero; la venta, al final y suave.
 
 ## Tipos de post (elige uno; si el usuario no dice, propón el que toque por calendario)
+- **Historia con reencuadre (⭐ el formato estrella):** anécdota real con giro humano → resolución concreta → frases memorables. Sin CTA ni bait. Ver anatomía abajo.
 - **Autoridad (contraintuitiva):** rompe el consenso + tu reencuadre + tu concepto propio + pregunta.
 - **Tutorial técnico:** un resultado concreto + cómo se hace con Claude en pasos + recurso/CTA.
 - **Caso real:** cliente/situación con número → qué montaste → antes/después → CTA a agenda.
 - **Building in public:** historia real del día a día montando sistemas; cercanía y prueba.
 - **Newsjacking:** una novedad real de IA → qué significa para una pyme → tu aplicación.
 - **Comercial directo:** a quién ayudas + qué haces sin tecnicismos + objeciones eliminadas + CTA.
+
+## ⭐ El formato estrella: Historia con reencuadre (storytelling)
+El que mejor funciona para construir autoridad SIN vender. Anatomía (modelo real: *"Un cliente me
+pidió apagar una automatización que funcionaba perfectamente. Ese era el problema."* — Xora AI):
+1. **Gancho-paradoja:** una contradicción que aún no tiene sentido → obliga a seguir leyendo
+   («apagar algo que funciona / ese era el problema»). 2-3 líneas, una idea por línea.
+2. **Detalle concreto y real:** qué, dónde, cuándo (WhatsApp fuera de horario, respuesta a las 11 de
+   la noche, «a las dos semanas me llamó»). Los detalles dan credibilidad; nada genérico.
+3. **El giro humano:** la verdad inesperada que reencuadra todo (a los clientes de siempre los saluda
+   por su nombre, sabe qué van a pedir… *«eso ERA su negocio»*). Aquí está la emoción.
+4. **Resolución concreta:** qué cambiaste/montaste, mostrando **criterio** sin fanfarronear (distinguir
+   contacto nuevo de recurrente; al nuevo lo atiende la IA, al de siempre lo deriva al dueño).
+5. **Cierre = 2-3 frases memorables y citables**, cortas y casi filosóficas (*«Quitar trabajo no es
+   quitar relación.»* / *«El mejor sistema es el que sabe cuándo apartarse.»*). Es lo que se comparte.
+6. **Sin CTA, sin bait, sin enlace.** Vende demostrando criterio, no pidiendo. Firma de marca al final.
+7. **Humildad, no gurú** (*«en mi segundo mes haciendo esto»*). La cercanía y la vulnerabilidad enganchan.
+
+Encaja perfecto con «automatización con sentido»: la historia ES la tesis (automatizar con criterio,
+saber QUÉ NO automatizar) en versión emocional. Para usarlo: parte de una anécdota REAL del usuario
+(o `[CASO REAL]` si falta) — nunca inventes la historia.
 
 ## Cómo actuar
 1. Si no te lo han dado, pregunta breve: tema, tipo de post (o «elige tú»), y si hay algún dato/caso real.
