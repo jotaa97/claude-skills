@@ -16,6 +16,16 @@ Sin código y sin APIs. Solo necesitas tu Claude con la **búsqueda web activada
 
 ---
 
+## 🎯 diagnostico-automatizacion-pyme — `diagnostico-automatizacion-pyme/`
+
+**Por dónde empezar con la IA en tu empresa.** Le describes tu negocio y te devuelve las **5 tareas
+que deberías automatizar primero**, ordenadas por **horas que ahorran × facilidad**, con una
+estimación honesta de tiempo recuperado, **cómo se haría con Claude**, y —lo más importante— **qué NO
+automatizar**. Diagnóstico con criterio: primero se arregla el proceso, luego se automatiza.
+
+- **Instalar como skill:** `npx skills add jotaa97/claude-skills@diagnostico-automatizacion-pyme`
+- **O copiar el prompt:** abre `diagnostico-automatizacion-pyme/PROMPT.md` y pégalo en Claude.
+
 ## 🧲 buscar-clientes — `buscar-clientes/`
 
 Tu **ayudante de prospección**: le dices qué vendes y a quién, **busca empresas reales** que
@@ -75,6 +85,7 @@ acompaña. Formato 1080×1350 (4:5).
 ## Instalar (resumen)
 
 ```bash
+npx skills add jotaa97/claude-skills@diagnostico-automatizacion-pyme
 npx skills add jotaa97/claude-skills@buscar-clientes
 npx skills add jotaa97/claude-skills@crear-presentaciones
 npx skills add jotaa97/claude-skills@crear-post-linkedin
